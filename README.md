@@ -13,7 +13,6 @@ while d<e:
     player1 = input("your turn :")
     player2 = ("s","w","g")
     c=random.choice(player2)
-    
     if player1 == "s" and c == "s":
         print("you have chosen a SNAKE , player2 has also chosen SNAKE  \nso it is an TIE")
     if player1 == "s" and c == "w":
