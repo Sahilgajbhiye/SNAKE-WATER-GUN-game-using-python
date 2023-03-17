@@ -2,6 +2,7 @@
 SNAKE WATER GUN game
 
 import random
+
 print("THIS IS AN WATER SNAKE AND GUN GAME\n\n")
 print("IF YOU WANT SNAKE TYPE s\nIF YOU WANT WATER TYPE w\nIF YOU WANT GUN TYPE g")
 d=0
