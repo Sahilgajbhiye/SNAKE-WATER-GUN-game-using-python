@@ -1,5 +1,5 @@
 # SNAKE-WATER-GUN-game-using-python
-SNAKE WATER GUN game
+#SNAKE WATER GUN game
 
 import random
 
